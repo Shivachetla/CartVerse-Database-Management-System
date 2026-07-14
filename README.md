@@ -148,9 +148,9 @@ This project helped me gain practical experience in:
 
 Software Developer | Python | SQL | AI Enthusiast
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: https://github.com/Shivachetla
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: https://www.linkedin.com/in/akshay-shiva-chetla-992473320/
 
 ---
 
