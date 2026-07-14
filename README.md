@@ -146,7 +146,7 @@ This project helped me gain practical experience in:
 
 **Chetla Shiva**
 
-Software Developer | Python | SQL | AI Enthusiast
+Software Developer | Python | SQL | AI | ML 
 
 GitHub: https://github.com/Shivachetla
 
